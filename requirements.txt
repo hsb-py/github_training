@@ -1,0 +1,3 @@
+creating a Data pipeline
+Creating SQL Schema
+SQL-Schema should be Star Schema 
