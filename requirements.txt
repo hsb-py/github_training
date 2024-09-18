@@ -1,3 +1,6 @@
 creating a Data pipeline
 Creating SQL Schema
-SQL-Schema should be Star Schema 
+SQL-Schema should be a Star Schema
+Data Processing
+Data Transformation
+Use Python pandas to cleaning and processing
