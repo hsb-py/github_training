@@ -6,3 +6,5 @@ Data Transformation
 Use Python pandas to cleaning and processing
 
 create pipeline in airflow
+
+create each task in airflow using python
