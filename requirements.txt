@@ -4,3 +4,5 @@ SQL-Schema should be a Star Schema
 Data Processing
 Data Transformation
 Use Python pandas to cleaning and processing
+
+create pipeline in airflow
